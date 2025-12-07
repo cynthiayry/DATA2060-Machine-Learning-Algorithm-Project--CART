@@ -4,7 +4,7 @@ A robust, from-scratch implementation of the CART (Classification and Regression
 
 This project implements the CART algorithm (Breiman et al., 1984) using only **Python** and **NumPy**, mirroring the API of `sklearn.tree.DecisionTreeClassifier`. It demonstrates a deep understanding of recursive partitioning, Gini impurity optimization, and tree-based inference.
 
-## 🚀 Key Features
+## Key Features
 
 *   **Scikit-learn API Compatibility**: Implements `fit`, `predict`, `predict_proba`, and `score` methods for seamless integration.
 *   **Feature Importance**: Calculates Gini importance for interpretability, allowing users to identify the most predictive features.
@@ -12,7 +12,7 @@ This project implements the CART algorithm (Breiman et al., 1984) using only **P
 *   **Hyperparameter Control**: Supports `max_depth`, `min_samples_split`, and `min_samples_leaf` to manage the bias-variance trade-off.
 *   **Comprehensive Testing**: Validated against scikit-learn with a rigorous suite of unit tests covering edge cases, depth constraints, and probability estimates.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                  # Dataset files (Breast Cancer Wisconsin)
@@ -27,7 +27,7 @@ This project implements the CART algorithm (Breiman et al., 1984) using only **P
 └── Final project rubric.md
 ```
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 The project requires Python 3.12+. We recommend using a virtual environment.
 
@@ -53,7 +53,7 @@ Open `src/project.ipynb` in Jupyter Lab or VS Code. The notebook is self-contain
 3.  **Check Model**: Unit tests and parity checks against `sklearn`.
 4.  **Main**: End-to-end experiment on Breast Cancer data, including feature importance analysis and depth tuning.
 
-## 📊 Performance
+## Performance
 
 Our implementation achieves parity with scikit-learn on the Breast Cancer Wisconsin dataset:
 
@@ -64,18 +64,18 @@ Our implementation achieves parity with scikit-learn on the Breast Cancer Wiscon
 
 *Note: Slight variations in accuracy may occur due to floating-point precision differences in split threshold selection.*
 
-## 👥 Contributors
+## Contributors
 
 *   **Sibo Zhou**
 *   **Shiyu Liu**
 *   **Ruoyun Yang**
 *   **Zhaocheng Yang**
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📚 References
+## References
 
 *   Breiman, L., Friedman, J., Olshen, R., & Stone, C. (1984). *Classification and Regression Trees*. Wadsworth.
 *   Pedregosa, F. et al. (2011). Scikit-learn: Machine learning in Python. *JMLR*.
