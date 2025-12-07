@@ -1,4 +1,4 @@
-# CART Classifier from Scratch (DATA2060 Final Project)
+# CART Classifier from Scratch (DATA2060 Final Project) -- The Overfitters
 
 Implementation of a CART (Classification and Regression Tree) classifier built with only Python and NumPy, plus a full test suite comparing our model to `sklearn.tree.DecisionTreeClassifier`. The notebook doubles as the final report with math, code, tests, and experiments.
 
