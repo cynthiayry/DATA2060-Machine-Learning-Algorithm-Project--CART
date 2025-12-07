@@ -69,10 +69,10 @@ pip install -r requirements.txt
 
 Open `src/project.ipynb` in Jupyter Lab or VS Code. The notebook is self-contained and structured as follows:
 
-1.  **Part 1 - Overview**: Mathematical formulation of CART and Gini Impurity.
-2.  **Part 2 - Model**: The core `DecisionTreeClassifier` class implementation.
-3.  **Part 3 - Check Model**: Unit tests and parity checks against `sklearn`.
-4.  **Part 4 - Main**: End-to-end experiment on Breast Cancer data, including feature importance analysis and depth tuning.
+**Part 1 - Overview**: Mathematical formulation of CART and Gini Impurity.
+**Part 2 - Model**: The core `DecisionTreeClassifier` class implementation.
+**Part 3 - Check Model**: Unit tests and parity checks against `sklearn`.
+**Part 4 - Main**: End-to-end experiment on Breast Cancer data, including feature importance analysis and depth tuning.
 
 ## Performance
 
