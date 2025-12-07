@@ -49,15 +49,5 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-*.png
-*.pdf
-!presentation.pdf
-!report.pdf
-!Final\ project\ rubric.pdf
-
-# Data (uncomment if you don't want to track data files)
-# data/
-
 # Logs
 *.log
