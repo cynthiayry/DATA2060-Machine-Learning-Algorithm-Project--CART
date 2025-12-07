@@ -22,8 +22,8 @@ This project implements the CART algorithm (Breiman et al., 1984) using only **P
 ├── src/
 │   ├── project.ipynb      # Main Jupyter Notebook (Report + Code + Tests)
 │   └── cart_depth_analysis.png # Generated analysis plot
-├── README.md              # Project documentation
-├── LICENSE                # MIT License
+├── README.md             
+├── LICENSE                
 └── Final project rubric.md
 ```
 
