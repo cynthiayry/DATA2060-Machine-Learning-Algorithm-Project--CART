@@ -88,7 +88,7 @@ Our implementation achieves parity with scikit-learn on the Breast Cancer Wiscon
 ## Authors
 
 - **Ruoyun Yang** - Brown University - ruoyun_yang@brown.edu
-- **Shiyu Liu** - Brown University - shiyu_liu@brown.edu
+- **Shiyu Liu** - Brown University - shiyu_liu1@brown.edu
 - **Zhaocheng Yang** - Brown University - zhaocheng_yang@brown.edu
 - **Sibo Zhou** - Brown University - sibo_zhou@brown.edu
 
